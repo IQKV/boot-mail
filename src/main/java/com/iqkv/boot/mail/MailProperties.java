@@ -1,4 +1,4 @@
-package org.iqkv.boot.mail;
+package com.iqkv.boot.mail;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
